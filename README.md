@@ -1,4 +1,4 @@
-# vagrant-centos-python3: a Vagrant box with CentOS + Python3
+# vagrant-centos-python3: a CentOS Vagrant box with Python 3 + pip
 
 # VAGRANT CLOUD
 
